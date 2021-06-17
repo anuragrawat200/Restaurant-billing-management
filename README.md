@@ -10,3 +10,5 @@ bills
 • Finally a bill is generated with bill ref no. , current date , time , total cost with tax included
 
 
+![Screenshot (999)](https://user-images.githubusercontent.com/73066457/122322057-75700980-cf42-11eb-81d4-a0b3e9d3d5b3.png)
+![Screenshot (1000)](https://user-images.githubusercontent.com/73066457/122322066-77d26380-cf42-11eb-9ebb-e236a658e4f5.png)
