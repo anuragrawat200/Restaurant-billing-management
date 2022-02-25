@@ -2,7 +2,7 @@ import mysql.connector
 conn = mysql.connector.connect(
   host="localhost",
   username="root",
-  password="harshit@ait",
+  password="",
   database="billing_management",
    
 )
